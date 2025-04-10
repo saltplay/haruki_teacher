@@ -4,12 +4,6 @@
 >
 > 如果你已经看见了图片，忽略本页面即可
 
-> [!IMPORTANT]
->
-> 什么？！你设置了扩展媒体，还是没有图片？
->
-> 那就是图床的问题了。不关我的事。
-
 1. ## 展示此页面的图片
 
    > [!TIP]
@@ -66,13 +60,13 @@
 
       这里有一个很明显的人像按钮。
 
-      <img src="https://picmine.oss-cn-hangzhou.aliyuncs.com/img/202504101519321.png" alt="截屏2025-04-10 下午2.01.10" style="zoom:50%;" />
+      ![截屏2025-04-10 下午2.01.10](https://picmine.oss-cn-hangzhou.aliyuncs.com/img/202504101519321.png "截屏2025-04-10 下午2.01.10")
 
       不要犹豫，点击她。
 
    2. #### 根据你的系统快速寻找「禁止外部媒体」
 
-      <img src="https://picmine.oss-cn-hangzhou.aliyuncs.com/img/202504101523052.png" alt="根据你的系统快速寻找「禁止外部媒体」" style="zoom:50%;" />
+      ![根据你的系统快速寻找「禁止外部媒体」](https://picmine.oss-cn-hangzhou.aliyuncs.com/img/202504101523052.png "根据你的系统快速寻找「禁止外部媒体」")
 
       Windows就用control+f搜索栏
       Macos就用command+F
@@ -80,8 +74,14 @@
 
       ##### 搜索：禁止外部媒体
 
-      ![禁止外部媒体](https://picmine.oss-cn-hangzhou.aliyuncs.com/img/202504101524125.png)
+      ![禁止外部媒体](https://picmine.oss-cn-hangzhou.aliyuncs.com/img/202504101524125.png "禁止外部媒体")
 
    3. #### 不要犹豫，点击她，点击「禁止外部媒体」，让她前面的✅去掉
 
    4. 🎉很好，你现在完成了「默认：展示所有卡的图片」相关设置🎉
+
+      > [!IMPORTANT]
+      >
+      > 什么？！你设置了扩展媒体，还是没有图片？
+      >
+      > 那就是图床的问题了。不关我的事。
